@@ -1,1 +1,1 @@
-# odin-recipes
+This is project where I will demonstrate what I have learned so far in the odin project by building a recipe page. In this page I will use, paragraphs, lists (unorganized and organized), anchors, links and a lot more.
